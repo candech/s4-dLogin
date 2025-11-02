@@ -60,7 +60,7 @@
             // btnIngresar
             // 
             btnIngresar.BackColor = Color.Pink;
-            btnIngresar.Location = new Point(427, 262);
+            btnIngresar.Location = new Point(424, 341);
             btnIngresar.Name = "btnIngresar";
             btnIngresar.Size = new Size(202, 52);
             btnIngresar.TabIndex = 2;

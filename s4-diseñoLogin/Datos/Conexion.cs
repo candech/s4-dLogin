@@ -22,7 +22,7 @@ namespace s4_diseñoLogin.Datos
             this.servidor = "localhost";
             this.puerto = "3306";
             this.usuario = "root";
-            this.clave = "&njm2bkbePc5JChu7TU5";
+            this.clave = "123456";
         }
         // proceso de interacción
         public MySqlConnection CrearConexion()
